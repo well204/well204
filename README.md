@@ -17,9 +17,9 @@
 
 <div align="center" class="social">
 
-  <a href="https://www.instagram.com/jaum.me/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" target="_blank" width="35" height="35"></a>⠀
-  <a href="https://www.linkedin.com/in/joão-victor-amarante-diniz-9a2191230/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/99/PNG/96/linkedin_socialnetwork_17441.png" target="_blank" width="35" height="35"></a>⠀
-  <a href="mailto:joaovictordiniz2002@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/96/gmail_new_logo_icon_159149.png" target="_blank" width="35" height="35"></a>
+  <a href="https://www.instagram.com/weelll__1/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" target="_blank" width="35" height="35"></a>⠀
+  <a href="https://www.linkedin.com/in/wellington-santos-37955a265/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/99/PNG/96/linkedin_socialnetwork_17441.png" target="_blank" width="35" height="35"></a>⠀
+  <a href="mailto:wellington.santos.3090@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/96/gmail_new_logo_icon_159149.png" target="_blank" width="35" height="35"></a>
 
   <!--  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a> -->
 
@@ -32,14 +32,15 @@
 
 <div align="center" class="tec">
 <p align="center">
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" width="35" height="35"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/c_original_logo_icon_146611.png" width="35" height="35"/>
 <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/java_original_logo_icon_146458.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="35" height="35"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_git_icon_130581.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/96/github-logo_icon-icons.com_73546.png" width="35" height="35"/>
+
+  
 </p>
 
 </div><br>
