@@ -1,6 +1,6 @@
 <!-- 
 </p align="center">
-<img src="https://github.com/Jaum1981/Jaum1981/blob/main/assets/banner%201.svg" />
+<img src="https://github.com/well204/well204/blob/main/assets/banner%201.svg" />
 <p align="center">
 <div>
 -->
@@ -62,10 +62,10 @@ https://ashutosh00710.github.io/github-readme-activity-graph/
 
 
 <p align = "center"> 
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Jaum1981&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=f8d847&text_color=ffffff&bg_color=141321" alt="João Victor github stats">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=well204&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=f8d847&text_color=ffffff&bg_color=141321" alt="Wellington Santos github stats">
 </P>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexcold&layout=compact&hide_border=true&title_color=00aeff&text_color=ffffff&bg_color=141321" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=well204&layout=compact&hide_border=true&title_color=00aeff&text_color=ffffff&bg_color=141321" />
 </p>
 
 <div align="center">
@@ -74,13 +74,13 @@ https://ashutosh00710.github.io/github-readme-activity-graph/
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=GitHub+Trophies;)](https://git.io/typing-svg)
 
   
-  <img src = "https://github-profile-trophy.vercel.app/?username=Jaum1981&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
+  <img src = "https://github-profile-trophy.vercel.app/?username=well204&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
 
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jaum1981}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{well204}/count.svg" /></p> 
 <br>
 </div>
 
