@@ -31,8 +31,6 @@
 
 <div align="center" class="tec">
 <p align="center">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/c_original_logo_icon_146611.png" width="35" height="35"/>
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/java_original_logo_icon_146458.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width="35" height="35"/>
