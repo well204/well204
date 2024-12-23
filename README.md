@@ -17,7 +17,6 @@
 
 <div align="center" class="social">
 
-  <a href="https://www.instagram.com/weelll__1/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" target="_blank" width="35" height="35"></a>⠀
   <a href="https://www.linkedin.com/in/wellington-santos-37955a265/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/99/PNG/96/linkedin_socialnetwork_17441.png" target="_blank" width="35" height="35"></a>⠀
   <a href="mailto:wellington.santos.3090@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/96/gmail_new_logo_icon_159149.png" target="_blank" width="35" height="35"></a>
 
