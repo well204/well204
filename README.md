@@ -9,7 +9,7 @@ Gosto de trabalhar com APIs, estruturas de dados e estou sempre buscando aprende
 ## 📝 Contato
 
 <p align="left">
-    <a href="wellington.santos.3090@gmail.com">
+    <a href="mailto:wellington.santos.3090@gmail.com">
         <img 
             alt="mail" 
             title="Entre em contato comigo" 
