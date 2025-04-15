@@ -13,8 +13,8 @@ Gosto de trabalhar com APIs, estruturas de dados e estou sempre buscando aprende
         <img 
             alt="mail" 
             title="Entre em contato comigo" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mailUCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44t&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mailUCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44t&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+        
     <a href="https://www.linkedin.com/in/wellington-santos-37955a265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
       
 </p>
